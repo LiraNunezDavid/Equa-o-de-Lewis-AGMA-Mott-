@@ -15,8 +15,8 @@ $$\sigma = \frac{F_t}{b \cdot m_n \cdot Y_J}$$
 
 Onde:
 * **$F_t$**: Força Tangencial (N)
-* **$b$**: Largura da face (mm)
-* **$m_n$**: Módulo normal
+* **$b$**: Largura da face    (mm)
+* **$m_n$**: Módulo normal    (mm)
 * **$Y_J$**: Fator geométrico (obtido via tabela AGMA)
 
 ---
