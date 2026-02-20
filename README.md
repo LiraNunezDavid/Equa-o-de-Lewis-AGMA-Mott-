@@ -1,1 +1,1 @@
-# Equa-o-de-Lewis-AGMA-Mott-
+# Equação-de-Lewis (AGMA-Mott)
