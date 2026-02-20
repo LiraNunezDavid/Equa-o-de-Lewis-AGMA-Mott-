@@ -1,4 +1,4 @@
-# Cálculo de Tensão por Flexão em Engrenagens Retas: Usando a Equação de Lewis (AGMA-Mott)
+# Cálculo de Tensão à Flexão em Engrenagens Retas: Usando a Equação de Lewis (AGMA-Mott)
 
 Clique no botão abaixo para executar o calculador da tensão de flexão ($\sigma$), diretamente no seu navegador:
 
@@ -20,4 +20,4 @@ Onde:
 * **$Y_J$**: Fator geométrico (obtido via tabela AGMA)
 
 ---
-**Desenvolvido por:** Eng. [David Lira Nunez]
+**Desenvolvido por:** Professor [David Lira Nunez]
