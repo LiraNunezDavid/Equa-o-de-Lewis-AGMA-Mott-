@@ -19,5 +19,4 @@ Onde:
 * **$m_n$**: Módulo normal    (mm)
 * **$Y_J$**: Fator geométrico (obtido via tabela AGMA)
 
----
-**Desenvolvido por: Professor **David Lira Nunez**
+Desenvolvido por: Professor **David Lira Nunez**
