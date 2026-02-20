@@ -1,4 +1,4 @@
-# Projeto de Cálculo de Tensão em Engrenagens -  Equação de Lewis (AGMA-Mott)
+# Cálculo de Tensão por Flexão em Engrenagens Retas: Usando a Equação de Lewis (AGMA-Mott)
 
 Clique no botão abaixo para executar o calculador de Sigma diretamente no seu navegador:
 
