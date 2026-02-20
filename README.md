@@ -1,6 +1,6 @@
 # Cálculo de Tensão por Flexão em Engrenagens Retas: Usando a Equação de Lewis (AGMA-Mott)
 
-Clique no botão abaixo para executar o calculador de $$\sigma diretamente no seu navegador:
+Clique no botão abaixo para executar o calculador de $\sigma$ diretamente no seu navegador:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeuUsuario/SeuRepositorio/blob/main/calculo_sigma.ipynb)
 ---
