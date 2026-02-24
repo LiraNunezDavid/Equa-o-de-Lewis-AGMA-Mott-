@@ -2,7 +2,7 @@
 
 Clique no botão abaixo para executar o calculador da tensão de flexão ($\sigma$), diretamente no seu navegador:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeuUsuario/SeuRepositorio/blob/main/calculo_sigma.ipynb](https://github.com/LiraNunezDavid/Equa-o-de-Lewis-AGMA-Mott-/blob/main/Equa%C3%A7%C3%A3o_de_Lewis.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeuUsuario/SeuRepositorio/blob/main/calculo_sigma.ipynb](https://github.com/LiraNunezDavid/Equa-o-de-Lewis-AGMA-Mott-/blob/main/Equa%C3%A7%C3%A3o_de_Lewis.ipynb))
 ---
 ## 🛠️ Funcionalidades
 * **Busca Automática de $Y_J$:** O script possui um banco de dados interno que associa o número de dentes ($Z$) ao fator geométrico correspondente.
